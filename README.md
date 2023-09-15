@@ -1,2 +1,2 @@
-# my_first_repo
-this is a class demo
+# welcome to my project!
+hello world, i've just learned to edit GitHub files... well not just but using it at least :)
